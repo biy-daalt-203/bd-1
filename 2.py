@@ -85,4 +85,4 @@ if __name__ == "__main__":
     print(f"Гүн замын хайлтын хугацаа: {measure_dfs(edge_array)} секунд")
 
     overall_end_time = time.perf_counter()
-    print(f"\nПрограммын ажиллах хугацаа: {overall_end_time - overall_start_time} секунд")
+    print(f"\nПрограммын ажиллах хугацаа: {overall_end_time - overall_start_time} секунд")aa
